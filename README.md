@@ -6,9 +6,3 @@ This project implements the **Skip-gram with Negative Sampling (SGNS)** model fo
 
 ![Visualizing word similarities in the embedding space using t-SNE](assets/similarities.png)
 
-## Features
-
-- Implementation of SGNS from scratch in a Jupyter notebook
-- Uses the [`text8`](http://mattmahoney.net/dc/text8.zip) corpus
-- Trained on Apple M1 Air
-- Visualization of word similarities using t-SNE and word analogies using PCA.
